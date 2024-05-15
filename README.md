@@ -1,2 +1,5 @@
-# php-dev-environment
-PHP + Nginx + DB environment using docker
+# How to use
+RUN:
+docker compose up
+
+CHANGE FILES IN /webroot
